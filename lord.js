@@ -2796,4 +2796,4 @@ client.on("message", async niro_games => {
     
 
 
-client.login(token).catch(err => { console.error(`[ Discord ] Worng Token :<`) })
+client.login(NzcyMDUyNjM0NjA0NDA0NzY2.X51EDA.yPeiu1dVoyMfcTVnmFI25uL3Dd4).catch(err => { console.error(`[ Discord ] Worng Token :<`) })
